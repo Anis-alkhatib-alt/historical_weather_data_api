@@ -1,0 +1,7 @@
+[project]
+name = "historical_weather_data_api"
+version = "0.1.0"
+description = "Python Practice API"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["flask>=3.1.0", "pandas>=2.2.3"]
